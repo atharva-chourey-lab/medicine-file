@@ -1,0 +1,30 @@
+{
+  "title": "The canon travelled west: dating the Ayurvedic saṃhitās against the Baghdad, Chinese and Tibetan records",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "description": "The great Ayurvedic saṃhitās were translated in Baghdad and quoted there by 850 CE, yet no Chinese bibliography records a translation of Caraka or Suśruta, and the Tibetan canon took only Vāgbhaṭa's epitome. This paper dates the Ayurvedic canon — Caraka, Suśruta, Vāgbhaṭa, Bhela and Kāśyapa, with the Bower Manuscript as a physical anchor — against foreign dated records: Chinese catalogues, pilgrims and annals; Arabic bibliographies and compendia; Tibetan translation records; and dated manuscripts. A foreign record dates the event it directly records — a translation, a catalogue entry, a sojourn — and constrains the Indian original only as a bound, never as a composition date. On that rule, Caraka is BOUNDED, its layers running c. 100 BCE–200 CE and its present form complete by c. 500, with the Firdaws al-Ḥikma (c. 850) as its hard foreign terminus; Suśruta is BOUNDED, in present form by c. 500, translated by Mankha for Yaḥyā al-Barmakī in 786–803 and surviving complete in a manuscript dated 878; and Vāgbhaṭa is CORROBORATED, his window of c. 550–650 tightened from above by Yijing, who in 691 reports the eight branches lately compiled into one fascicle. What reached China was Ayurveda as practice and formulary — the Sui bibliography of 656 lists eleven Indian medical titles and pointedly not Caraka or Suśruta, Faxian describes physician-staffed dispensaries at Pāṭaliputra in 405–411, the Waitai Miyao of 752 carries an Indian eye treatise and cataract couching, and Liu Yuxi addressed a poem to his Brahmin eye-doctor in 837. The claim that Ayurveda is 5,000 years old is graded NO BITE as stated: decomposed, medical practice in India is ancient and undatable as a system, the Atharvavedic healing stratum dates to c. 1000 BCE, and the systematised canon to c. 200 BCE. Keywords: Ayurveda; Caraka Saṃhitā; Suśruta Saṃhitā; Vāgbhaṭa; Bower Manuscript; history of medicine; Chinese records; Arabic translation; Tibetan canon",
+  "creators": [
+    {
+      "name": "Chourey, Atharva",
+      "affiliation": "Atharva Chourey Lab — independent research lab",
+      "orcid": "0009-0009-9423-1718"
+    }
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "Ayurveda",
+    "samhita dating",
+    "medical history",
+    "Baghdad",
+    "textual transmission"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/atharva-chourey-lab/medicine-file",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ],
+  "notes": "Manuscript — not yet peer-reviewed. Self-published by Atharva Chourey Lab (human-AI collaboration: Atharva Chourey + Lapis)."
+}
